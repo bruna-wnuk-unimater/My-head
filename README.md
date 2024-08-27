@@ -1,5 +1,5 @@
-# head-spinning-HTML+CSS+GSAP
+# mario-spinning-HTML+CSS+GSAP
 
 
 
-![](head-gif.gif)
+![](mario.gif)
